@@ -1,6 +1,6 @@
 
 <?php
-class alif
+class dhiga
 {
 	public $nama="Dhiga";
 }
