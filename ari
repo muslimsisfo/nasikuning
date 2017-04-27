@@ -1,6 +1,6 @@
 <?php
-class Muslim
+class ari
 {
-	public $nama ="Muslim";
+	public $nama ="Ari";
 }
 ?>
