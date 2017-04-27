@@ -8,9 +8,6 @@
 		public tambah(){
 			return true;
 		}
-		public function gantifoto(){
-			return true;
-		}
 	}
 
 ?>
