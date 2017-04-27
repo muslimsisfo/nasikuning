@@ -16,6 +16,8 @@
 		public function lihatprofil(){
 			return true;
 		}
+		public function ubah(){
+			return true;
 	
 	}
 
